@@ -1,5 +1,4 @@
-## Hi👋, 
-### My name is Islomjon Ergashev
+### Hi👋,  My name is Islomjon Ergashev
 
 
 <!--
