@@ -4,7 +4,7 @@
 
 I am Islomjon from Uzbekistan, I do Fullstack programming. I am interested in building websites. I enjoy Backend programming in Java
 
-My Skills:  HTML / CSS/ VUE JS / REACT / JS / JAVA / SPRING
+My Skills:  HTML / CSS/ REACT / JS / JAVA / SPRING
 
 
 
