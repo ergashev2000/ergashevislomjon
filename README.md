@@ -6,8 +6,5 @@ Feel free to contact me if you have any questions or projects you'd like to coll
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/islomjon-ergashev-bb9944211/)  
-
-
 
 [![Islomjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ergashevislomjon)](https://github.com/ergashevislomjon/github-readme-stats)
