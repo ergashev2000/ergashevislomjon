@@ -7,4 +7,4 @@ Feel free to contact me if you have any questions or projects you'd like to coll
 
 
 
-[![Islomjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ergashevislomjon)](https://github.com/ergashevislomjon/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ergashevislomjon)](https://github.com/ergashevislomjon/github-readme-stats)
